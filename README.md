@@ -1,8 +1,8 @@
 # Executable Creation Workflow
 
 The following is a workflow guide into creating executable drivers for HID controllers (Arduino, Raspberry, etc.)
-
-
+This has been my working solution into providing clients with easy, one-click solutions for reuploading code to a board that's been wiped of data, they may have accidentally flashed, etc.
+It has the added benefit of encrypting source code into machine code, making it much harder to replicate my intellectual property.
 
 
 
@@ -207,6 +207,7 @@ pause
 
 
 5\. Upload .exe file to relevant channels (like a website's software page).
+
 
 
 
